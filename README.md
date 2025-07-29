@@ -11,9 +11,6 @@ The analysis includes performance metrics, regional trends, customer segments, a
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Screenshot](images/Superstore Dashboard.PNG)
-
-> 📌 Replace `dashboard.png` with the actual filename in your `/images` folder.
-
 ---
 
 ## 🎯 Project Goals
