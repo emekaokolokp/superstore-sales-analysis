@@ -1,13 +1,12 @@
-# 🛒 Superstore Sales Insights using SQL + Power BI
+# 🛒 Superstore Sales Insights using Power BI
 
 ## 📊 Project Overview
 
-This project analyzes sales data from a fictional Superstore using PostgreSQL and Power BI. It demonstrates how raw data can be transformed into meaningful business insights through SQL queries and interactive dashboards.
+This project analyzes sales data from a fictional Superstore using Power BI. It demonstrates how raw data can be transformed into meaningful business insights through SQL queries and interactive dashboards.
 
 The analysis includes performance metrics, regional trends, customer segments, and top-selling products — making it a strong addition to a data analytics portfolio.
 
 ---
-
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Screenshot](images/Superstore Dashboard.PNG)
