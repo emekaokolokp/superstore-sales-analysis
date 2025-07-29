@@ -9,7 +9,8 @@ The analysis includes performance metrics, regional trends, customer segments, a
 ---
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](images/Superstore Dashboard.PNG)
+<img width="938" height="485" alt="image" src="https://github.com/user-attachments/assets/3e2d4391-b3de-4cfd-b1d1-6c15ecc5a94a" />
+
 ---
 
 ## 🎯 Project Goals
